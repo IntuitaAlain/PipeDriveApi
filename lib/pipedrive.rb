@@ -57,6 +57,9 @@ require 'pipedrive/operations/delete'
 require 'pipedrive/person_field'
 require 'pipedrive/person'
 
+# User
+require 'pipedrive/user'
+
 # Organizations
 require 'pipedrive/organization_field'
 require 'pipedrive/organization'
